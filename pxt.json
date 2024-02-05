@@ -1,0 +1,34 @@
+{
+    "name": "zombie game",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "makecode-minecraft-music": "github:microsoft/makecode-minecraft-music#v0.0.7",
+        "Roller Coaster Builder": "github:microsoft/makecode-minecraft-roller-coaster#v1.0.2",
+        "makecode-minecraft-castle-builder": "github:microsoft/makecode-minecraft-castle-builder#v0.0.2",
+        "makecode-minecraft-mob-events": "github:microsoft/makecode-minecraft-mob-events#4940c1da87b203c63780ef869e0186cb906dbbeb",
+        "makecode-minecraft-pixel-art": "github:microsoft/makecode-minecraft-pixel-art#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.7.28",
+        "tag": "v1.7.28",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/43da08b76c2f6625ff14c4dd6110a975e16396e8",
+        "target": "1.7.28",
+        "pxt": "9.2.8",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
