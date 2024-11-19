@@ -81,13 +81,6 @@ player.onChat("!load", function () {
 player.onItemInteracted(NETHERITE_SWORD, function () {
     mobs.spawnParticle(ENCHANTING_TABLE, pos(0, 0, 0))
 })
-player.onChat("save", function () {
-    blocks.saveStructure(
-    "build",
-    world(-55, -1, -40),
-    world(-41, 11, -23)
-    )
-})
 mobs.onMobKilled(mobs.monster(ZOMBIE), function () {
     gameplay.xp(5, mobs.target(ALL_PLAYERS))
     player.execute(
