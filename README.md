@@ -1,8 +1,12 @@
-### Zombie Game (BUGGY)
+# Zombie Game (BUGGY)
 ## Plants vs Zombies in Minecraft Edu but Bad.
-# Commands:
+
+## Commands:
+
 !load (loads the structure)
+
 !start (starts the game)
+
 !stop (stops the game)
 
 # Note: Enter !load before !start
