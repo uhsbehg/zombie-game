@@ -1,4 +1,4 @@
-## Use as Extension
+## How to add to Minecraft Edu?
 
 This repository can be added as an **extension** in MakeCode.
 
