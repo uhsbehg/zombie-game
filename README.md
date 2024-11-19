@@ -1,6 +1,3 @@
-
-> Open this page at [https://uhsbehg.github.io/zombie-game/](https://uhsbehg.github.io/zombie-game/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
