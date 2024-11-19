@@ -9,7 +9,7 @@
 
 !stop (stops the game)
 
-# Note: Enter !load before !start
+### Note: Enter !load before !start
 
 ## How to add to Minecraft Edu?
 
