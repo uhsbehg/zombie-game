@@ -1,3 +1,12 @@
+### Zombie Game (BUGGY)
+## Plants vs Zombies in Minecraft Edu but Bad.
+# Commands:
+!load (loads the structure)
+!start (starts the game)
+!stop (stops the game)
+
+# Note: Enter !load before !start
+
 ## How to add to Minecraft Edu?
 
 This repository can be added as an **extension** in MakeCode.
